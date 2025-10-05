@@ -1,0 +1,21 @@
+body {
+	background-color: #6699ff;
+}
+
+
+header {
+	width: 60%;
+	float: right;
+}
+.Facts {
+  float: left;
+  width: 50%;
+  font-size: 1.35em;
+}
+.Hobbies {
+	float: left;
+	width: 50%;
+	font-size: 1.35em;
+}
+
+	
